@@ -14,9 +14,18 @@ Daniel Zildjian Garon Benitez, popularly known as Zild, is a Filipino musician, 
 
 
 Born: April 23, 1997 (age 26 years), Quezon City
+
+
 Genres: Alternative/Indie, Dance/Electronic, Pop
+
+
 Parents: Franklin Benitez, Jennifer Garon Benitez
+
+
+
 Music group: IV of Spades (Since 2014)
+
+
 Full name: Daniel Zildjian Garon Benitez
 
 
