@@ -31,4 +31,10 @@ Music group: IV of Spades (Since 2014)
 Full name: Daniel Zildjian Garon Benitez
 
 
-https://www.youtube.com/watch?v=-0JlqYekQlQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0JlqYekQlQ?si=bzVmN66B6t7sAsYP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i3CJXdLlKJo?si=Jx0divvuIpR2Ig7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oANcoZyyWnI?si=8sGL7yNxO_p2uhhJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
